@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/me.png"
+  avatar           : "images/me.jpeg"
   name             : "Ummea Salma"
   pronouns         : "she/her"  
   bio              : "Graduate student of Computer Science & Engineering at University of Connecticut"
