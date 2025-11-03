@@ -8,7 +8,7 @@ permalink: /teaching/2014-spring-teaching-1
 #location: "Storrs, CT"
 ---
 
-# Teaching Assistant, University of Connecticut, Storrs, CT
+## Teaching Assistant, University of Connecticut, Storrs, CT
    - [Spring 2023] PHYS-1202Q: General Physics II<br>
    - [Fall 2023] PHYS-1202Q: General Physics II<br>
    - [Fall 2023] CSE1010: Introduction to Computing<br>
@@ -16,5 +16,5 @@ permalink: /teaching/2014-spring-teaching-1
    - [Fall 2024] PHYS-1202Q: General Physics II<br>
 
 
-# Instructor, Institute of Information Technology, University of Dhaka
+## Instructor, Institute of Information Technology, University of Dhaka
    - Conducted training on Office applications for smart office and, web design using HTML, CSS & JavaScript.
