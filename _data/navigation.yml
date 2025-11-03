@@ -19,9 +19,6 @@ main:
 
   - title: "Activities"
     url: /activities/
-
-  - title: "Voluntary"
-    url: /voluntary/
     
   - title: "CV"
     url: /cv/
@@ -29,11 +26,8 @@ main:
   - title: "Photography"
     url: /photography/
         
-  - title: "Art"
+  - title: "Hobby"
     url: /art/
-
-  - title: "House Plants"
-    url: /houseplants/
     
   # - title: "CV"
   #   url: /cv-json/
