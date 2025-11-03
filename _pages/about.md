@@ -12,11 +12,11 @@ Hi! I am Ummea Salma. Recently completed my master's in Computer Science and Eng
 In my free time I enjoy taking care of my houseplants. I love drawing, specially Mandalas. I am also interested in photography and cooking as well.
 
 
-## Research Interest
+## Research Interests
 
-Computer Network
-Network Security
-Social Media Mining
-Real-Time Data Analytics and Machine Learning.
-Internet of Things
-Vehicular Network
+- Computer Networks  
+- Network Security  
+- Social Media Mining  
+- Real-Time Data Analytics and Machine Learning  
+- Internet of Things  
+- Vehicular Networks
