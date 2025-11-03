@@ -8,13 +8,9 @@ date: 2014-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+#Teaching Assistant
+  - [Spring 2023] PHYS-1202Q: General Physics II
+  - [Fall 2023] PHYS-1202Q: General Physics II
+  - [Fall 2023] CSE1010: Introduction to Computing
+  - [Spring 2024] CSE1010: Introduction to Computing
+  - [Fall 2024] PHYS-1202Q: General Physics II
