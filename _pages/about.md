@@ -1,4 +1,6 @@
 ---
+layout: about
+title: "About Me"
 permalink: /
 redirect_from: 
   - /about/
