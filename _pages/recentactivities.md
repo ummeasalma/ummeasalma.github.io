@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recentactivities
 title: "Recent Activities"
 permalink: /recentactivities/
 ---
