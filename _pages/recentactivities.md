@@ -1,6 +1,6 @@
 ---
-layout: default
-title: ""
+layout: archive
+title: "Recent Activities"
 permalink: /recentactivities/
 author_profile: true
 ---
