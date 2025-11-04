@@ -6,9 +6,10 @@ author_profile: true
 ---
 
 Here are some of my recent activities:
-
-- Participated in XYZ Conference on Machine Learning, 2025  
-- Published a paper on Secure Data Sharing in Vehicular Networks  
-- Conducted a workshop on Deep Learning at UConn  
-- Volunteered for community service projects  
-- Attended a seminar on Network Security  
+  
+- [2025.07] Received an offer to join as an Adjunct Faculty in the Computer Science Department at Johnson & Wales University.
+- [2025.08] I volunteered at WordCamp US 2025 conference in Portland, Oregon.
+- [2025.04] Started volunteering as a Tech Help Volunteer at the Cornelius Public Library.
+- [2024.12] I have successfully graduated from UConn!
+- [2024.10] Attended the Society of Women Engineers (SWE) Annual Conference 2024 in Chicago, Illinois.
+- [2024.03] I volunteered at UConn College of Engineering Poster Competition.
