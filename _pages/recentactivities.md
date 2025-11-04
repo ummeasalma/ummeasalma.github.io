@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Recent Activities"
-permalink: /recent-activities/
+permalink: /recentactivities/
 author_profile: true
 ---
 
