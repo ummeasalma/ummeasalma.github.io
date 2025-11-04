@@ -218,16 +218,13 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  recentactivities:
-    output: true
-    permalink: /:recentactivities/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  projects:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  activities:
     output: true
     permalink: /:collection/:path/
   talks:
