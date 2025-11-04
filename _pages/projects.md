@@ -27,5 +27,6 @@ This project proposes a design for a secure data-sharing framework in connected 
 ## Autonomous Control of a Fleet of Vehicles
 **Tech Stack:** Python, MQTT Broker, Raspberry Pi <br>
 
-Designed and implemented a distributed architecture where each vehicle in the fleet is equipped with a Raspberry Pi Pico W microcontroller, enabling real-time data exchange and coordination by utilizing the MQTT protocol.
+Designed and implemented a distributed architecture where each vehicle in the fleet is equipped with a Raspberry Pi Pico W microcontroller, enabling real-time data exchange and coordination by utilizing the MQTT protocol. <br>
+
 **GitHub:** [Project Link](https://github.com/mrp17010/cse4709-project)
