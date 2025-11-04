@@ -1,14 +1,14 @@
 ---
-layout: page
-title: "Recent Activities"
+layout: default
+title: ""
 permalink: /recentactivities/
 author_profile: true
 ---
 
 Here are some of my recent activities:
 
-- Participated in XYZ conference.
-- Published a paper on ABC topic.
-- Conducted a workshop on Machine Learning.
-- Volunteered for community service projects.
-
+- Participated in XYZ Conference on Machine Learning, 2025  
+- Published a paper on Secure Data Sharing in Vehicular Networks  
+- Conducted a workshop on Deep Learning at UConn  
+- Volunteered for community service projects  
+- Attended a seminar on Network Security  
