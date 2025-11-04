@@ -1,7 +1,8 @@
 ---
-layout: recentactivities
+layout: page
 title: "Recent Activities"
-permalink: /recentactivities/
+permalink: /recent-activities/
+author_profile: true
 ---
 
 Here are some of my recent activities:
