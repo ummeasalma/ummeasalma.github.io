@@ -25,8 +25,8 @@ author:
   # Biographic information
   avatar           : "me.jpeg"
   name             : "Ummea Salma"
-  pronouns         : "she/her"  
-  bio              : "Graduate student of Computer Science & Engineering at University of Connecticut"
+  pronouns         : #"she/her"  
+  bio              : "Computer Science @ UConn"
   location         : "Oregon, USA"
   employer         : #"Red Brick University"
   uri              : # URL
@@ -56,12 +56,12 @@ author:
   artstation       : # Username
   bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
-  flickr           : "sunshinethroughlenses"
+  flickr           : #"sunshinethroughlenses"
   foursquare       : # Username
   goodreads        : "pixiee21"
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "pixiee21"
+  instagram        : #"pixiee21"
   lastfm           : # Username
   linkedin         : "ummea-salma"
   mastodon         : # URL
