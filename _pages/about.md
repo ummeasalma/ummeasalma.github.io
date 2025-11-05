@@ -11,6 +11,8 @@ Hi! I am Ummea Salma. Recently completed my master's in Computer Science and Eng
 
 In my free time I enjoy taking care of my houseplants. I love drawing, specially Mandalas. I am also interested in photography and cooking as well.
 
+Please feel free reach out for research, collaborations, or a casual chat. The best way to reach me is via email: ummeasalma.us@gmail.com
+
 
 ## Research Interests
 
@@ -34,4 +36,10 @@ Here are some of my recent activities:
 - Secretary, Student Association of Graduate Engineers (SAGE), UConn
 - Secretary, Graduate Society of Women Engineers (SWE), UConn
 - Tech Help Volunteer, Cornelius Public Library, Cornelius, Oregon
-- Volunteer Photographer, WordCamp US 2025, Portland, Oregon 
+- Volunteer Photographer, WordCamp US 2025, Portland, Oregon
+
+### Fun Facts about me
+- I love hiking 🥾🎒 though I get tired very easily! I have a long bucket list of trails I want to hike.
+- ☕️ My favourite drinks are Latte, Iced Matcha 🍵 and Boba. I also like making latte art, pattern progress: blob (100%), rosetta (80%), solid heart (20%), some strange not sure what this pattern is! (100%).
+- 🪴 I have a huge collection of houseplants. I go grocery shopping and come home with five new plants instead of groceries! Taking care of my plants is my number one priority.
+- 🎨 Once obsessed with drawing mandalas and ended up creating over 100 of them! Now I’m experimenting with watercolors and gouache.
