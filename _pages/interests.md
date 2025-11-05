@@ -23,14 +23,13 @@ I love taking care of my plants! Here are some of my favorites:
 Mandala is a geometric configuration of symbols that holds ancient significance, symbolizing balance, wholeness, and the universe. In contemporary contexts, it also serves as a tool for mindfulness, self-reflection, and healing. I started drawing mandalas back in 2015. Paper and pen were the only mediums I used initially, but later I began creating them digitally using apps like Infinite Painter, Amaziograph, and Procreate. I have spent a lot of time researching different techniques for drawing mandala patterns.
 <p align="center">
   
-  <img src="/images/mandala2.jpg" width="20%">
-  <img src="/images/mandala4.jpg" width="45">
-  <img src="/images/mandala9.jpg" width="20%">
-  <img src="/images/mandala11.jpg" width="20%">
-  <img src="/images/mandala3.jpg" width="45%">
-  <img src="/images/mandala5.jpg" width="45%">
-  <img src="/images/mandala6.jpg" width="45%">
-  <img src="/images/mandala7.jpg" width="45%">
-  <img src="/images/mandala8.jpg" width="45%">
-  <img src="/images/mandala1.jpg" width="45%">
+  <img src="/images/mandala2.jpg" width="30%">
+  <img src="/images/mandala5.jpg" width="30%">
+  <img src="/images/mandala6.jpg" width="30%">
+  <img src="/images/mandala11.jpg" width="30%">
+  <img src="/images/mandala7.jpg" width="30%">
+  <img src="/images/mandala9.jpg" width="30%">
+  <img src="/images/mandala1.jpg" width="30%">
+  <img src="/images/mandala3.jpg" width="30%">
+  
 </p>
