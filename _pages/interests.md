@@ -47,5 +47,13 @@ Mandala is a geometric configuration of symbols that holds ancient significance,
 To me, photography is magic. Capturing moments fascinates me. I love traveling and taking photos. Landscapes is my favorite type of photography. I also enjoy editing my photos to bring out their full beauty.
 
 <p align="center">
-  <img src="/images/mandala2.jpg" width="30%">
+  <img src="/images/photograph/SH704828.jpg" width="30%">
+  <img src="/images/photograph/SH705107.jpg" width="30%">
+  <img src="/images/photograph/SH704910.jpg" width="30%"><br><br>
+  <img src="/images/photograph/SH704850.jpg" width="30%">
+  <img src="/images/photograph/SH705167.jpg" width="30%">
+  <img src="/images/photograph/SH705174.jpg" width="30%"><br><br>
+  <img src="/images/photograph/SH705216.jpg" width="30%">
+  <img src="/images/photograph/photo1.jpg" width="30%">
+  <img src="/images/photograph/photo2.jpg" width="30%">
 </p>
