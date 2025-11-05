@@ -5,7 +5,7 @@ permalink: /interests/
 author_profile: true
 ---
 
-# Houseplants
+## Houseplants
 My houseplant journey began in 2022, and now I have over 100 different types of plants in my collection. In 2024, we moved from Connecticut to Oregon, bringing all the plants with us in our car. Over the past few years, I’ve learned a lot about different types of plants and how to take care of them. Here are some photos of my collection.
 
 <p align="center">
@@ -21,7 +21,7 @@ My houseplant journey began in 2022, and now I have over 100 different types of 
 
 <br>
 
-# Mandala
+## Mandala
 Mandala is a geometric configuration of symbols that holds ancient significance, symbolizing balance, wholeness, and the universe. In contemporary contexts, it also serves as a tool for mindfulness, self-reflection, and healing. I started drawing mandalas back in 2015. Paper and pen were the only mediums I used initially, but later I began creating them digitally using apps like Infinite Painter, Amaziograph, and Procreate. I have spent a lot of time researching different techniques for drawing mandala patterns.
 
 <p align="center">
@@ -42,8 +42,9 @@ Mandala is a geometric configuration of symbols that holds ancient significance,
   <img src="/images/mandala3.jpg" width="30%">
 </p>
 
+<br>
 
-# Photography
+## Photography
 To me, photography is magic. Capturing moments fascinates me. I love traveling and taking photos. Landscapes is my favorite type of photography. I also enjoy editing my photos to bring out their full beauty.
 
 <p align="center">
