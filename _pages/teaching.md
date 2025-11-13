@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Teaching Assistant, University of Connecticut, Storrs, CT
+## Graduate Teaching Assistant, University of Connecticut, Storrs, CT
 * [Spring 2023] PHYS-1202Q: General Physics II (Department of Physics)
 * [Fall 2023] PHYS-1202Q: General Physics II
 * [Fall 2023] CSE1010: Introduction to Computing (School of Computing)
