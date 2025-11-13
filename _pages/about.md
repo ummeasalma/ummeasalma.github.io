@@ -11,7 +11,7 @@ Hi! I am Ummea Salma. Recently completed my master's in Computer Science and Eng
 
 In my free time I enjoy taking care of my houseplants. I love drawing, specially Mandalas. I am also interested in photography and cooking as well.
 
-Please feel free reach out for research, collaborations, or a casual chat. The best way to reach me is via email: ummeasalma.us@gmail.com
+Please feel free to reach out for research, collaborations, or even a casual chat. The best way to contact me is via email: ummeasalma.us@gmail.com
 
 
 ## Research Interests
