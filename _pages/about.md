@@ -25,7 +25,8 @@ Please feel free to reach out for research, collaborations, or even a casual cha
 
 ## Recent Activities
 Here are some of my recent activities:
-  
+
+- [2025.11] Received a full-time offer to join as a Teaching Faculty in the Department of Computer & Information Technology at Miami University, Ohio.
 - [2025.07] Received an offer to join as an Adjunct Faculty in the Computer Science Department at Johnson & Wales University.
 - [2025.08] Attended WordCamp US 2025 conference in Portland, Oregon.
 - [2024.12] I have successfully graduated from UConn!
