@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Ummea Salma. Recently completed my master's in Computer Science and Engineering from University of Connecticut. I was fortunate to have Professor [Bing Wang](https://bing.cse.uconn.edu/) as my advisor and Professor [ Minmei Wang](https://minmei-wang.github.io/) as my co-advisor. My research interests are in Computer Network, Network Security, Social Media Mining and Deep Learning. I did an independent research on secure data sharing system for Vehicular Network. I hold another M.S degree in Information Technology from Institute of Information Technology, University of Dhaka. I completed my B.Sc in Computer Science and Engineering from Stamford University Bangladesh.
+Hi! I am Ummea Salma. Currently working as an Information Technology Analyst at City of Cornelius, Oregon. I completed my master's in Computer Science and Engineering from University of Connecticut. I was fortunate to have Professor [Bing Wang](https://bing.cse.uconn.edu/) as my advisor and Professor [Minmei Wang](https://archer-w.github.io/) as my co-advisor. My research interests are in Computer Network, Network Security, Social Media Mining and Deep Learning. I did an independent research on secure data sharing system for Vehicular Network. I hold another M.S degree in Information Technology from Institute of Information Technology, University of Dhaka. I completed my B.Sc in Computer Science and Engineering from Stamford University Bangladesh.
 
 In my free time I enjoy taking care of my houseplants. I love drawing, specially Mandalas. I am also interested in photography and cooking as well.
 
@@ -26,6 +26,7 @@ Please feel free to reach out for research, collaborations, or even a casual cha
 ## Recent Activities
 Here are some of my recent activities:
 
+- [2025.12] Started a full-time position as an IT Analyst at the City of Cornelius, Oregon.
 - [2025.11] Received a full-time offer to join as a Teaching Faculty in the Department of Computer & Information Technology at Miami University, Ohio.
 - [2025.07] Received an offer to join as an Adjunct Faculty in the Computer Science Department at Johnson & Wales University.
 - [2025.08] Attended WordCamp US 2025 conference in Portland, Oregon.
